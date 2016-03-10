@@ -1,6 +1,6 @@
 Newfile
 
-
+new line!
 
 Games
 test
